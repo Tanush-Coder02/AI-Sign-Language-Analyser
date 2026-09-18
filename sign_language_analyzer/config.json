@@ -1,0 +1,16 @@
+{
+    "confidence_threshold": 0.75,
+    "stability_frames": 10,
+    "cooldown_seconds": 2.0,
+    "max_num_hands": 1,
+    "vocabulary": [
+        "Hello",
+        "Yes",
+        "No",
+        "Help",
+        "Thank You",
+        "Water",
+        "Food",
+        "Stop"
+    ]
+}
