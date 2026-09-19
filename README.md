@@ -1,2 +1,2 @@
 # AI-Sign-Language-Analyser
-This is the PPT Link  - https://gamma.app/docs/AI-Sign-Language-Analyzer-hom6t2qmd0vuysi
+This is the PPT Link  - https://docs.google.com/presentation/d/1MAXkkkL37rgeyFwYdPqYFAYYGaGINinKZehcglanVSE/edit?usp=sharing
